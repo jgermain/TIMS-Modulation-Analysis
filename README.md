@@ -383,7 +383,7 @@ The experiment investigated:
 ### Channel Comparison
 
 <p align="center">
-  <img src="Images/EyeDiagram_Channel1.png"
+  <img src="Images/EyeDiagram_Channel.jpg"
        alt="Eye diagram through TIMS channel 1"
        width="700">
 </p>
@@ -391,7 +391,7 @@ The experiment investigated:
 **Figure 9.** Eye diagram obtained through TIMS channel 1.
 
 <p align="center">
-  <img src="Images/EyeDiagram_Channel4.png"
+  <img src="Images/EyeDiagram_Channe4.jpg"
        alt="Eye diagram through TIMS channel 4"
        width="700">
 </p>
@@ -417,7 +417,7 @@ The differences demonstrated how channel characteristics can affect signal disto
 ### Eye Closure at Higher Data Rates
 
 <p align="center">
-  <img src="Images/EyeDiagram_DataRate.png"
+  <img src="Images/EyeDiagram_DataRate.jpg"
        alt="Eye diagram showing distortion at increased signaling rate"
        width="700">
 </p>
