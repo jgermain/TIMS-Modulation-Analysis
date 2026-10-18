@@ -383,7 +383,7 @@ The experiment investigated:
 ### Channel Comparison
 
 <p align="center">
-  <img src="Images/EyeDiagram_Channel.jpg"
+  <img src="Images/EyeDiagram_Channel1.jpg"
        alt="Eye diagram through TIMS channel 1"
        width="700">
 </p>
@@ -391,7 +391,7 @@ The experiment investigated:
 **Figure 9.** Eye diagram obtained through TIMS channel 1.
 
 <p align="center">
-  <img src="Images/EyeDiagram_Channe4.jpg"
+  <img src="Images/EyeDiagram_Channel4.jpg"
        alt="Eye diagram through TIMS channel 4"
        width="700">
 </p>
