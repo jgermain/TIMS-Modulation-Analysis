@@ -125,7 +125,7 @@ The message signal was also recovered using rectification followed by low-pass f
 ### AM Frequency Spectrum
 
 <p align="center">
-  <img src="Images/AM_Spectrum.png"
+  <img src="Images/AM_Frequency_Spectrum.png"
        alt="Measured AM spectrum showing the carrier and two sidebands"
        width="750">
 </p>
@@ -256,7 +256,7 @@ These are the configured theoretical frequency states, rather than independently
 ### FSK Waveform
 
 <p align="center">
-  <img src="Images/FSK_Waveform.png"
+  <img src="Images/FSK_Modulation.png"
        alt="Binary sequence and resulting FSK waveform"
        width="750">
 </p>
@@ -266,7 +266,7 @@ These are the configured theoretical frequency states, rather than independently
 ### FSK Frequency Spectrum
 
 <p align="center">
-  <img src="Images/FSK_Spectrum.png"
+  <img src="Images/FSK_Frequency_Spectrum.png"
        alt="Frequency spectrum of an FSK signal"
        width="750">
 </p>
@@ -383,7 +383,7 @@ The experiment investigated:
 ### Channel Comparison
 
 <p align="center">
-  <img src="Images/Eye_Diagram_Channel_1.png"
+  <img src="Images/EyeDiagram_Channel1.png"
        alt="Eye diagram through TIMS channel 1"
        width="700">
 </p>
@@ -391,7 +391,7 @@ The experiment investigated:
 **Figure 9.** Eye diagram obtained through TIMS channel 1.
 
 <p align="center">
-  <img src="Images/Eye_Diagram_Channel_4.png"
+  <img src="Images/EyeDiagram_Channel4.png"
        alt="Eye diagram through TIMS channel 4"
        width="700">
 </p>
@@ -417,7 +417,7 @@ The differences demonstrated how channel characteristics can affect signal disto
 ### Eye Closure at Higher Data Rates
 
 <p align="center">
-  <img src="Images/Eye_Diagram_High_Rate.png"
+  <img src="Images/EyeDiagram_DataRate.png"
        alt="Eye diagram showing distortion at increased signaling rate"
        width="700">
 </p>
